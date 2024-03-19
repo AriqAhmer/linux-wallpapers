@@ -5,8 +5,9 @@ The original wallpaper can be found [here in this link](https://discourse.ubuntu
 
 After I had posted my initial concepts for Ubuntu, Arch and Mint over on Facebook, I really got a lot of positive feedbacks ♥️! and a few requests!!
 So this repo contains the original SVGs I edited. The PNGs can be found over [here in this Google Drive folder.](https://drive.google.com/drive/folders/1angbVPGPDCeuxVJhAKnJ8RcZcXiqTDaq?usp=sharing)
+Feel free to download and edit to your liking!
 
-Currently I have managed to make the following distro's wallpaper as per requests (in alphabetical order):
+Currently I have managed to make the following distro's wallpaper (mobile version) as per requests (in alphabetical order):
 - Arch
 - Debian
 - Fedora
@@ -18,3 +19,6 @@ Currently I have managed to make the following distro's wallpaper as per request
 - Ubuntu
 
 Enjoy!!!
+
+## To-do
+- [ ] Make desktop versions of the designs
