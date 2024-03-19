@@ -14,6 +14,7 @@ Currently I have managed to make the following distro's wallpaper (mobile versio
 - Garuda
 - Kali
 - Mint
+- Nix OS
 - Nobara
 - Steam OS
 - Ubuntu
