@@ -6,7 +6,7 @@ The original wallpaper can be found [here in this link](https://discourse.ubuntu
 After I had posted my initial concepts for Ubuntu, Arch and Mint over on Facebook, I really got a lot of positive feedbacks ♥️! and a few requests!!
 So this repo contains the original SVGs I edited. The PNGs can be found in the Google drive folders linked below:
 
-[Mobile Version Wallpapers](https://drive.google.com/drive/folders/1angbVPGPDCeuxVJhAKnJ8RcZcXiqTDaq?usp=sharing)
+[Mobile Version Wallpapers](https://drive.google.com/drive/folders/1angbVPGPDCeuxVJhAKnJ8RcZcXiqTDaq?usp=sharing)<br>
 [Desktop Version Wallpapers](https://drive.google.com/drive/folders/1B40uvx7Dzvz9_INbg9II8t1KkesvTjuy?usp=sharing)
 
 Feel free to download and edit to your liking!
